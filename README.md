@@ -1,7 +1,7 @@
 LightOO
 =======
 
-A lightweight library for Object Oriented programming in Haskell. 
+A lightweight library for Object Oriented programming (OOP) in Haskell. 
 
 The library is inspired by the "Mutable Objects, with tail-polymorphism" approach as described in the ["Haskell's overlooked object system"][1] paper and extends it with:
 
