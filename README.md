@@ -37,3 +37,9 @@ or
 [1]: https://arxiv.org/abs/cs/0509027
 [2]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.11.8792
 [3]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.343.134
+
+## Related
+
+- [OOP in Haskell](https://well-typed.com/blog/2018/03/oop-in-haskell/)
+- [Codata in Action](https://conf.researchr.org/details/etaps-2019/esop-2019-papers/4/Codata-in-Action)
+- [Nixpkgs overlays are monoids](https://www.haskellforall.com/2022/01/nixpkgs-overlays-are-monoids.html)
